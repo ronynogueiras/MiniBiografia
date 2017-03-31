@@ -9,3 +9,7 @@
 ## Executando o projeto 
 
 ```  mvn org.apache.tomcat.maven:tomcat7-maven-plugin:run ```
+
+## Visualizando a biografia
+
+``` http://localhost:8080/MiniBiografia ```
